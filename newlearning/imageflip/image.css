@@ -9,6 +9,7 @@
 .product-small-img img:hover
 {
     opacity: 1;
+    transition: 1s;
 }
 .product-small-img 
 {
